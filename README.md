@@ -38,8 +38,8 @@
 
 - 🔹 [MyPortfolio2024](https://github.com/WajahatAli3218664/MyPortfolio2024)
 - 🔹 [PizzaWebsite24](https://github.com/WajahatAli3218664/PizzaWebsite24)
-- 🔹 [FigmaHackathon](https://github.com/WajahatAli3218664/FigmaHackathon)
-- 🔹 [Wajahats-Repo](https://github.com/WajahatAli3218664/Wajahats-Repo)
+- 🔹 [dynamicblog](https://github.com/WajahatAli3218664/dynamicblog)
+- 🔹 [Infinity-Unit-Converter](https://github.com/WajahatAli3218664/Infinity-Unit-Converter)
 
 ---
 
@@ -47,7 +47,7 @@
 
 - 🥇 Scored 100/100 in multiple programming quizzes 💯
 - 📜 Completed certifications in **GitHub Copilot**, **Graphic Design**, and **Microsoft Excel**
-- 🧑‍🏫 Grateful to my mentor **Mehak Alamgir** for constant guidance and inspiration
+- ✅ Earned certification in “Introduction to GitHub Copilot” — empowering my development journey with AI tools.
 
 ---
 
